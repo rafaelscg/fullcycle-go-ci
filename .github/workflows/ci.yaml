@@ -1,4 +1,4 @@
-name: ci-go
+name: ci-go-test
 on:
   pull_request:
     branches:
