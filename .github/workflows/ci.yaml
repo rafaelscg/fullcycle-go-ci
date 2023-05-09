@@ -1,4 +1,4 @@
-name: ci-golang-workflow
+name: fullcycle-go-ci
 on:
   pull_request:
     branches:
