@@ -1,8 +1,5 @@
 name: fullcycle-go-ci
-on:
-  pull_request:
-    branches:
-      - main
+on: [push]
 jobs:
   check-application:
     runs-on: ubuntu-latest
