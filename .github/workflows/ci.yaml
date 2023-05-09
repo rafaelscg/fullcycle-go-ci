@@ -1,4 +1,4 @@
-name: fullcycle-go-ci
+name: go-ci
 on:
   pull_request:
     branches:
